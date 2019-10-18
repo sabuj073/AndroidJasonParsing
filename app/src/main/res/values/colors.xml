@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="background">#FFF8F8F8</color>
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="text_view_empty">#888888</color>
+
+    <color name="background_selected">#FFF0FCF0</color>
+
+    <color name="space_white">#FFFFFFFF</color>
+    <color name="space_black">#060a0b</color>
+    <color name="space_grey">#FF888888</color>
+
+    <color name="background_snackbar_error">#FF0000</color>
+
+    <color name="faded_black">#AA000000</color>
+
+
+</resources>
